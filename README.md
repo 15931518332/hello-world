@@ -1,2 +1,3 @@
 # hello-world
-just one repository
+just one repositoryfirst 
+first learn github
